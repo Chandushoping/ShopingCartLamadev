@@ -31,7 +31,7 @@ position:absolute;
 background-color:white;
 z-index:5;
 top:0;
-left:0;`;
+left:10;`;
 
 const Product=({item})=>{
     return(
