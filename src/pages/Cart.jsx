@@ -52,7 +52,7 @@ const ProductInfo=styled.div`
 ;
 const ProductWrapper=styled.div`
 display:flex;
-flex:2;`
+flex:3;`
 
 const ProductTitle=styled.div``;
 const ProductId=styled.div``;
